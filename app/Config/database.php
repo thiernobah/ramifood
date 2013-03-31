@@ -11,4 +11,6 @@ class DATABASE_CONFIG {
 		'prefix' => 'fo_',
 		'encoding' => 'utf8'
 	);
+        
+        
 }

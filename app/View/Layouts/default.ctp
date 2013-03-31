@@ -49,6 +49,7 @@
     </head>
 
     <body>
+        <div id="fb-root"></div>
 
         <?php if ($this->Session->read('Auth.User.id')): ?>
             <?php echo $this->element('/navs/admin-menu'); ?>
@@ -85,9 +86,8 @@
 
                 }, 30000)
             });
-
         </script>
-
+        <?php echo $this->Html->script('facebook'); ?>
     </body>
 </html>
 

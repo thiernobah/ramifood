@@ -50,6 +50,13 @@ class AjaxController extends AppController {
         }
     }
     
+    function upload(){
+        
+        
+        
+    }
+
+
     public function message_reply()
     {
         if($this->request->is('post'))
