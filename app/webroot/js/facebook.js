@@ -4,7 +4,8 @@ window.fbAsyncInit = function() {
         channelUrl: '//www.ramifood.com/channel.html', // Channel File
         status: true, // check login status
         cookie: true, // enable cookies to allow the server to access the session
-        xfbml: true  // parse XFBML
+        xfbml: true,  // parse XFBML
+        Oauth:true
     });
     FB.api('/me', function(user) {
         if (user) {
@@ -41,6 +42,6 @@ $(function() {
             } else {
                 console.log('User cancelled login or did not fully authorize.');
             }
-        });
+        },{scope:'email'});
     })
 })
