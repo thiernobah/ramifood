@@ -12291,3 +12291,34 @@ Request URL: /ramifood/assets/ico/favicon.png
 Stack Trace:
 #0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-04-01 18:38:34 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 18:38:35 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 18:39:25 Error: [NotFoundException] Invalid user
+Request URL: /ramifood/users/view/6
+Stack Trace:
+#0 [internal function]: UsersController->view('6')
+#1 C:\wamp\www\ramifood\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
