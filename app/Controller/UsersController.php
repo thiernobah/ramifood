@@ -17,8 +17,10 @@ class UsersController extends AppController {
         App::import('Lib', 'Facebook/facebook');
         
         if(!$this->Session->started()){
-            session_start();
+            
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
+            session_start();
+            
         }
         
         $facebook = new Facebook(
