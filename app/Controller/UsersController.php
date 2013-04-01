@@ -16,6 +16,10 @@ class UsersController extends AppController {
     function facebook() {
         require_once APPLIBS . 'Facebook' . DS . 'facebook.php';
 
+        if(!$this->Session->started()){
+            $this->Session->start();
+        }
+        
         $facebook = new Facebook(
                 array(
             'appId' => '143633382480206',
@@ -26,7 +30,6 @@ class UsersController extends AppController {
         $user = $facebook->getUser();
         
         if($user){
-            
             try{
                 
                 $data = $facebook->api('/me');

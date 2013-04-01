@@ -44,7 +44,7 @@ class Facebook extends BaseFacebook
    * shares the domain with other apps).
    * @see BaseFacebook::__construct in facebook.php
    */
-  public function __construct($config) {
+  public function __construct($config, $session) {
     if (!session_id()) {
       session_start();
     }
