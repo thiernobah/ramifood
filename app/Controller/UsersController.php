@@ -25,8 +25,8 @@ class UsersController extends AppController {
         
         $facebook = new Facebook(
                 array(
-            'appId' => '143633382480206',
-            'secret' => '6b28e108ba9408dac51dd60579a773e3'
+                        'appId' => '143633382480206',
+                        'secret' => '6b28e108ba9408dac51dd60579a773e3'
                 )
         );
 
