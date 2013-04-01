@@ -17,7 +17,7 @@ class UsersController extends AppController {
         require_once APPLIBS . 'Facebook' . DS . 'facebook.php';
 
         if(!$this->Session->started()){
-            $this->Session->start();
+            $this->Session->activate();
         }
         
         $facebook = new Facebook(
