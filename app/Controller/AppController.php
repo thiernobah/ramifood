@@ -49,7 +49,7 @@ class AppController extends Controller {
     
     public function beforeFilter() {
         parent::beforeFilter();
-        $this->Auth->allow('signup', 'display','login');
+        $this->Auth->allow('signup', 'display','login','facebook');
         
     }
 }
