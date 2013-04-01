@@ -18,6 +18,7 @@ class UsersController extends AppController {
         
         if(!$this->Session->started()){
             session_start();
+            session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
         }
         
         $facebook = new Facebook(
