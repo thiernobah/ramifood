@@ -47,9 +47,7 @@ class Facebook extends BaseFacebook
   public function __construct($config) {
     
     parent::__construct($config);
-    if (!empty($config['sharedSession'])) {
-      $this->initSharedSession();
-    }
+    
   }
 
   protected static $kSupportedKeys =
