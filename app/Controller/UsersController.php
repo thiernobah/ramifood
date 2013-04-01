@@ -17,7 +17,8 @@ class UsersController extends AppController {
         require_once APPLIBS . 'Facebook' . DS . 'facebook.php';
 
         if(!$this->Session->started()){
-            $this->Session->activate();
+            App::uses('CakeSession', 'Model/Datasource');
+            $Session = new CakeSession();
         }
         
         $facebook = new Facebook(
