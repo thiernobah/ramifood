@@ -14,7 +14,7 @@ class UsersController extends AppController {
     }
 
     function facebook() {
-        App::import('Lib', 'Facebook.Facebook');
+        App::import('Lib', 'Facebook/facebook');
         
         $facebook = new Facebook(
                 array(
