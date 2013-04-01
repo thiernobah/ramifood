@@ -34,14 +34,16 @@ $(function() {
 
     $('.fbconnect').click(function() {
         FB.login(function(response) {
+            
+            url = $(this).attr('href');
+            
             if (response.authResponse) {
-                console.log('Welcome!  Fetching your information.... ');
-                FB.api('/me', function(response) {
-                    console.log('Good to see you, ' + response.name + '.');
-                });
+                window.location = url;
             } else {
                 console.log('User cancelled login or did not fully authorize.');
             }
-        },{scope:'email'});
-    })
+        },{scope:'email, username, first_name, last_name, birthday, picture, facebook_id'});
+        
+        return false;
+    });
 })

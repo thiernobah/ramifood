@@ -13,6 +13,31 @@ class UsersController extends AppController {
         parent::beforeFilter();
     }
 
+    function facebook() {
+        require_once APPLIBS . 'Facebook' . DS . 'facebook.php';
+
+        $facebook = new Facebook(
+                array(
+            'appId' => '143633382480206',
+            'secret' => '6b28e108ba9408dac51dd60579a773e3'
+                )
+        );
+        
+        $user = $facebook->getUser();
+        
+        if($user){
+            
+            try{
+                
+                $data = $facebook->api('/me');
+                die($data);
+            }  catch (FacebookApiException $e){
+                debug($e);
+            }
+            
+        }
+    }
+
     /**
      * set_username
      * 
@@ -21,7 +46,7 @@ class UsersController extends AppController {
     function set_username() {
 
         if ($this->request->is('post')) {
-            
+
             $this->User->id = (int) $this->Session->read('Auth.User.id');
             if ($this->User->save($this->request->data)) {
                 $this->Session->setFlash('mise à jour effectuée avec succès.');
@@ -81,7 +106,7 @@ class UsersController extends AppController {
      */
     public function view($username = null) {
         $this->User->recursive = 0;
-           if (!$this->User->username_exist($username)) {
+        if (!$this->User->username_exist($username)) {
             throw new NotFoundException(__('Invalid user'));
         }
         $options = array('conditions' => array('User.username' => $username));
@@ -96,7 +121,7 @@ class UsersController extends AppController {
     public function signup() {
         if ($this->request->is('post')) {
             $this->User->create();
-            
+
             if ($this->User->signup_user($this->request->data)) {
                 $this->Session->setFlash(__('The user has been saved'));
                 $this->redirect(array('action' => 'index'));
@@ -184,3 +209,4 @@ class UsersController extends AppController {
     }
 
 }
+

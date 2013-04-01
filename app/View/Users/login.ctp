@@ -12,7 +12,7 @@
       
     <div class="">
         Se connecter avec facebook
-        <a href="#" class="fbconnect">facebook connect</a>
+        <a href="<?php echo $this->Html->url(array('action' => 'facebook')); ?>" class="fbconnect">facebook connect</a>
     </div>    
       
     
