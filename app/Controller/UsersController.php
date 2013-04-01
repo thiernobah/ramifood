@@ -14,7 +14,7 @@ class UsersController extends AppController {
     }
 
     function facebook() {
-        require_once APPLIBS . 'Facebook' . DS . 'facebook.php';
+        App::import('Lib', 'Facebook/Facebook');
         
         $facebook = new Facebook(
                 array(
