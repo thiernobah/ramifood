@@ -17,7 +17,7 @@ class UsersController extends AppController {
         App::import('Lib', 'Facebook/facebook');
         
         if(!$this->Session->started()){
-            SessionComponent::start();
+            session_start();
         }
         
         $facebook = new Facebook(
