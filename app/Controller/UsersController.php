@@ -16,24 +16,27 @@ class UsersController extends AppController {
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
         
+        if(!$this->Session->started()){
+            SessionComponent::start();
+        }
+        
         $facebook = new Facebook(
                 array(
             'appId' => '143633382480206',
             'secret' => '6b28e108ba9408dac51dd60579a773e3'
                 )
         );
-        
+
         $user = $facebook->getUser();
-        
-        if($user){
-            try{
-                
+
+        if ($user) {
+            try {
+
                 $data = $facebook->api('/me');
                 die($data);
-            }  catch (FacebookApiException $e){
+            } catch (FacebookApiException $e) {
                 debug($e);
             }
-            
         }
     }
 
