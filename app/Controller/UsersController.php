@@ -31,6 +31,8 @@ class UsersController extends AppController {
         );
 
         $user = $facebook->getUser();
+        
+        debug($user);
 
         if ($user) {
             try {
