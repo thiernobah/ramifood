@@ -33,10 +33,8 @@ window.fbAsyncInit = function() {
 $(function() {
 
     $('.fbconnect').click(function() {
+        url = $(this).attr('href');
         FB.login(function(response) {
-            
-            url = $(this).attr('href');
-            
             if (response.authResponse) {
                 window.location = url;
             } else {
