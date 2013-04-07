@@ -10,7 +10,7 @@ class UsersHelper extends AppHelper {
      * Load session helper
      */
     public $helpers = array('Session');
-    
+
     /**
      * getAvatar method 
      * 
@@ -27,7 +27,11 @@ class UsersHelper extends AppHelper {
             'fields' => array('avatar')
         ));
 
-        return $avatar['Profile']['avatar'];
+        if (!empty($avatar['Profile']['avatar'])) {
+            return '<img src="/img/avatars/'.$avatar['Profile']['avatar'].'" title="Photo profil">';
+        } else {
+            return '<img src="http://lorempixum.com/g/80/80/nature" class="img-rounded">';
+        }
     }
 
     /**
@@ -49,7 +53,7 @@ class UsersHelper extends AppHelper {
                 )
         );
 
-        return $user['User']['username'];
+        return '<a href="/users/view/' . $user['User']['username'] . '" title="Voir le profil de ' . $user['User']['username'] . '">' . $user['User']['username'] . '</a>';
     }
 
     /**
@@ -59,11 +63,11 @@ class UsersHelper extends AppHelper {
      * @return int number of vote
      */
     function voted($recipe_id = null) {
-        
+
         App::import('Model', 'RecipesLike');
 
         $recipe_like = new RecipesLike();
-        
+
         $count = $recipe_like->find('count', array(
             'conditions' => array('RecipesLike.recipes_id' => (int) $recipe_id,
                 'RecipesLike.users_id' => (int) $this->Session->read('Auth.User.id'))

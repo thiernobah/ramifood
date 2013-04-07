@@ -12322,3 +12322,1765 @@ Stack Trace:
 #3 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #4 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2013-04-01 19:04:37 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:04:38 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:05:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 19:05:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 19:05:26 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:05:27 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:08:10 Error: [NotFoundException] Invalid user
+Request URL: /ramifood/users/view/6
+Stack Trace:
+#0 [internal function]: UsersController->view('6')
+#1 C:\wamp\www\ramifood\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-01 19:08:12 Error: [MissingActionException] Action UsersController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/users/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:08:12 Error: [MissingActionException] Action UsersController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/users/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:15:52 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:15:52 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:16:18 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:16:18 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:29:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 19:29:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 19:37:21 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:37:21 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:43:18 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 19:43:18 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:32:54 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:32:54 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:35:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:35:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:36:44 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:36:44 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:37:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:37:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:39:57 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:39:58 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:42:39 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:42:40 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:46:58 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:46:58 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:54:02 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:54:02 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:55:02 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:55:02 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:58:57 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:58:57 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:59:50 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 20:59:50 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:01:14 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:01:15 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:02:25 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:02:25 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:02:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/img/avatars/plop
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 21:25:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:26:27 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:26:27 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:27:19 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:27:20 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:28:06 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:28:06 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:30:02 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:30:02 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:30:10 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:30:10 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:31:02 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:31:02 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:31:36 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:31:36 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:32:00 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:32:00 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:32:17 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:32:17 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:32:21 Error: Fatal Error (64): Can't use method return value in write context in [C:\wamp\www\ramifood\app\View\Recipes\view.ctp, line 49]
+2013-04-01 21:32:21 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /ramifood/recipes/view/1-Cabio
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', 'C:\wamp\www\ram...', 49, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-01 21:32:48 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:32:48 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:37:38 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:37:38 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:38:09 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:40:56 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:40:56 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:41:38 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:41:39 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:41:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:41:59 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:42:10 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:48:47 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:49:45 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:49:49 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:49:50 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:50:14 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:50:18 Error: [NotFoundException] Invalid user
+Request URL: /ramifood/users/view/6
+Stack Trace:
+#0 [internal function]: UsersController->view('6')
+#1 C:\wamp\www\ramifood\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-01 21:50:58 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:50:58 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:53:28 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 21:54:21 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:21:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-01 22:49:27 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:49:51 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:53:11 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:53:12 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:53:45 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-01 22:53:48 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-03 23:42:39 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\wamp\www\ramifood\lib\Cake\Routing\Filter\CacheDispatcher.php, line 16]
+2013-04-03 23:42:39 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\wamp\www\ram...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\wamp\www\ram...', 16, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\wamp\www\ram...', 16, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 21:02:16 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/user
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 21:18:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 21:18:48 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 21:22:04 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:15:17 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 22:15:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 22:16:45 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:16:45 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:18:15 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:18:15 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:20:01 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:20:01 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:20:59 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:20:59 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:21:50 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:21:50 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:22:58 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:22:58 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:32:55 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:32:56 Error: [MissingActionException] Action RecipesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/recipes/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:41:25 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:41:25 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:44:16 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:44:17 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:44:19 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:44:19 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:46:12 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:46:12 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:46:58 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:46:58 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:01 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:02 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:33 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:34 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:47 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:47:47 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:49:42 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:49:42 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:51:05 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:51:11 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:51:17 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 22:51:21 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 23:07:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:18:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:18:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:18:38 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:18:38 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:19:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:19:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:19:38 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:19:38 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:20:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:20:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:20:38 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:20:38 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:21:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:21:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:21:38 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:21:38 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:22:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:22:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:22:38 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:22:38 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:23:08 Error: Fatal Error (64): Cannot redeclare AnnounceHelper::getSubscriber() in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 22]
+2013-04-04 23:23:08 Error: [FatalErrorException] Cannot redeclare AnnounceHelper::getSubscriber()
+Request URL: /ramifood/announces/view/3-propose
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\wamp\www\ram...', 22, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:31:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:31:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:31:48 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 24]
+2013-04-04 23:31:48 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /ramifood/announces
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\ram...', 24)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\ram...', 24, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\ram...', 24, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:32:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\ramifood\app\View\Helper\AnnounceHelper.php, line 24]
+2013-04-04 23:32:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /ramifood/announces
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\ram...', 24)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\ram...', 24, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\ram...', 24, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-04 23:35:57 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 23:36:01 Error: [MissingActionException] Action AnnouncesController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'assets',
+)
+Request URL: /ramifood/announces/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-04 23:38:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:38:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:38:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:38:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:40:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:40:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:42:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:42:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:43:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:43:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:43:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:43:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:44:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-04 23:44:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-06 21:44:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-06 21:44:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-06 23:13:06 Error: Fatal Error (1): Class 'Imagick' not found in [C:\wamp\www\ramifood\app\Controller\ProfilesController.php, line 57]
+2013-04-06 23:13:06 Error: [FatalErrorException] Class 'Imagick' not found
+Request URL: /ramifood/profiles/avatar
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

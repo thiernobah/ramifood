@@ -55,6 +55,7 @@ class AnnouncesController extends AppController {
                      'Subscriber.users_id' => (int)$this->Session->read('Auth.User.id'))));
         $this->set('announce', $this->Announce->find('first', $options));
         $this->set('count', $count);
+        $this->set('id', $id);
     }
 
     /**

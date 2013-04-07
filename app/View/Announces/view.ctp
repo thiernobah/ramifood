@@ -1,5 +1,10 @@
 <div class="span3">
-
+<?php foreach ($this->Announce->getSubscriber($id) as $users_id): ?>
+    <span class="span1"><?php echo $this->Users->getAvatar($users_id['Subscriber']['users_id']); ?></span>
+    <span class="span2">
+        <?php echo $this->Users->getUsername($users_id['Subscriber']['users_id']); ?>
+    </span>
+ <?php endforeach; ?>
 </div>
 <div class="span9">
 

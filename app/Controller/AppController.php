@@ -44,7 +44,7 @@ class AppController extends Controller {
         
     );
     
-    public $helper = array('Active','Slug', 'Notif', 'Users');
+    public $helper = array('Active','Slug', 'Notif', 'Users', 'Announce');
     
     
     public function beforeFilter() {

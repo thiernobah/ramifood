@@ -88,6 +88,7 @@
             });
         </script>
         <?php echo $this->Html->script('facebook'); ?>
+        <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
     </body>
 </html>
 

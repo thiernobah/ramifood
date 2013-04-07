@@ -18,7 +18,7 @@ class RecipesController extends AppController {
         $this->Recipe->recursive = -1;
         
         $this->paginate = array(
-            'fields' => array('Recipe.title','Recipe.created','Recipe.id', 'Recipe.recipe', 
+            'fields' => array('Recipe.title','Recipe.created','Recipe.like','Recipe.id', 'Recipe.recipe', 
                 'Recipe.users_id', '(select username from fo_users where fo_users.id = Recipe.users_id) as username')
         );
         
@@ -76,9 +76,16 @@ class RecipesController extends AppController {
             'conditions' => array('Comment.recipes_id'),
             'limit' => 20
         );
+        
+        $this->loadModel('RecipesLike');
+        $recipe_like = $this->RecipesLike->find('all', array(
+            'fields' => array('RecipesLike.users_id'),
+            'conditions' => array('RecipesLike.recipes_id' => (int)$id)
+        ));
 
         $comments = $this->paginate('Comment');
 
+        $this->set('liker', $recipe_like);
         $this->set('commments', $comments);
         $this->set('recipe', $this->Recipe->find('first', $options));
     }
