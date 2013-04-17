@@ -6,6 +6,45 @@
  */
 
 class AjaxController extends AppController {
+    
+    
+    function autocomplete()
+    {
+        $this->loadModel('User');
+        $user = new User();
+        $users = $user->find('all', 
+                array('fields' => array('User.id', 'User.username'),
+                    'conditions'=> array('User.username LIKE' => "%".$_GET['term']."%")));
+        $data = array();
+        
+        foreach ($users as $u):
+            $data[] = array('id' => $u['User']['id'],'label' => $u['User']['username'], 'value' => $u['User']['username']);
+        endforeach;
+        echo json_encode($data);
+        $this->autoRender = false;
+    }
+
+    public function confirmed() {
+        if ($this->request->is('post')) {
+            $t = array();
+
+
+            $this->loadModel('Subscriber');
+
+            $this->Subscriber->id = (int) $this->request->d;
+
+            if($this->Subscriber->updateAll(
+                    array('Subscriber.status' => 1), 
+                    array('Subscriber.users_id' => $this->request->data['user_id'],
+                          'Subscriber.announces_id' => $this->request->data['an_id']
+                        )
+            )){
+                $t['confirmed'] = 'ok';
+                echo json_encode($t);
+            }
+            $this->autoRender = false;
+        }
+    }
 
     public function like() {
 
@@ -62,6 +101,8 @@ class AjaxController extends AppController {
 
     function upload() {
         
+        
+       $this->autoRender = false;
     }
 
     public function message_reply() {

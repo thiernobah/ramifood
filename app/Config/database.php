@@ -6,10 +6,10 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
--               'password' => '',
--               'database' => 'socialfood',
+		'password' => '',
+		'database' => 'socialfood',
 		'prefix' => 'fo_',
-		'encoding' => 'utf8'
+		'encoding' => 'utf8',
 	);
         
         

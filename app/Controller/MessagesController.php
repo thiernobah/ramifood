@@ -53,12 +53,14 @@ class MessagesController extends AppController {
 	public function add() {
 		if ($this->request->is('post')) {
 			$this->Message->create();
-			if ($this->Message->save($this->request->data)) {
+                        
+                        debug($this->request->data);
+			/*if ($this->Message->save($this->request->data)) {
 				$this->Session->setFlash(__('The message has been saved'));
 				$this->redirect($this->referer());
 			} else {
 				$this->Session->setFlash(__('The message could not be saved. Please, try again.'));
-			}
+			}*/
 		}
 	}
 

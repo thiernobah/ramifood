@@ -53,7 +53,7 @@ class UsersHelper extends AppHelper {
                 )
         );
 
-        return '<a href="/users/view/' . $user['User']['username'] . '" title="Voir le profil de ' . $user['User']['username'] . '">' . $user['User']['username'] . '</a>';
+        return '<a href="/users/view/' .$user['User']['username'] . '" title="Voir le profil de ' . $user['User']['username'] . '">' . $user['User']['username'] . '</a>';
     }
 
     /**

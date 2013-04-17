@@ -1,36 +1,51 @@
 <div class="profiles">
-    <?php debug($profile); ?>
+
 </div>
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
 <?php echo $this->Html->css('bootstrap-fileupload.min'); ?>
 
-<script>
+<script type="text/javascript">
+   var upload = function() {
+            fileInput = document.querySelector('#file');
+            fileInput.onchange = function() {
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', '/ramifood/ajax/upload');
+                xhr.upload.onprogress = function(e) {
+                    /*progress.value = e.loaded;
+                    progress.max = e.total;*/
+                    $('.fileupload-preview').empty().append('Loading ...')
+                };
 
-    
+                xhr.onload = function() {
+                    alert('Upload terminé !');
+                };
+
+                var form = new FormData();
+                form.append('file', fileInput.files[0]);
+
+                xhr.send(form);
+            };
+
+            return false;
+   }
+       
+   
 </script>
-
-
-
 <div class="profiles form desc">
 
-    <?php echo $this->Form->create('Profile', array('type' => 'file',
-        'url' => array('controller' => 'profiles', 'action' => 'avatar'))); ?>
+    <form action="/" method="post" onsubmit="return upload();">
 
     <div class="fileupload fileupload-new" data-provides="fileupload">
-        <div class="fileupload-new thumbnail" style="width: 200px; height: 200px;"><img src="http://www.placehold.it/200x150/EFEFEF/AAAAAA&text=no+image" /></div>
-        <div class="fileupload-preview fileupload-exists thumbnail" style="max-width: 200px; max-height: 150px; line-height: 20px;"></div>
+        <div class="fileupload-preview thumbnail" style="width: 200px; height: 150px;"></div>
         <div>
-            <span class="btn btn-file"><span class="fileupload-new">Select image</span>
-                <span class="fileupload-exists">Change</span>
-                <?php echo $this->Form->file('avatar'); ?>
-            <a href="#" class="btn fileupload-exists" data-dismiss="fileupload">Remove</a>
-            <?php echo $this->Form->submit('envoyer', array('class' => 'fileupload-exists')); ?>
+            <span class="btn btn-file"><span class="fileupload-new">Select image</span><span class="fileupload-exists">Change</span>
+                <input id="file" name="avatar" type="file" /></span>
+                <a href="#" class="btn fileupload-exists" data-dismiss="fileupload">Remove</a>
+            <input type="submit" value="envoyer" class="btn">
         </div>
     </div>
-
-
-    <?php echo $this->Form->end(); ?>
+    </form>
 
 
     <hr>

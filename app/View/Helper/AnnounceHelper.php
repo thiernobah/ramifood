@@ -14,7 +14,7 @@ class AnnounceHelper extends AppHelper{
         
         $d = $subscriber->find('all', 
                 array('conditions' => array('Subscriber.announces_id' => (int)$announce_id),
-                       'fields' => array('Subscriber.users_id')
+                       'fields' => array('Subscriber.users_id','Subscriber.status')
                     ));
         return $d;
     }

@@ -1,80 +1,16 @@
-  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
-  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
-  <style>
-  .ui-autocomplete-loading {
-    background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
-  }
-  /*input[type="text"]{
-      background-color: #ddd !important;
-  }*/
-  </style>
-  
-   <script>
-  $(function() {
-    function split( val ) {
-      return val.split( /,\s*/ );
-    }
-    function extractLast( term ) {
-      return split( term ).pop();
-    }
-    $( "#messages" )
-      // don't navigate away from the field on tab when selecting an item
-      .bind( "keydown", function( event ) {
-        if ( event.keyCode === $.ui.keyCode.TAB &&
-            $( this ).data( "ui-autocomplete" ).menu.active ) {
-          event.preventDefault();
-        }
-      })
-      .autocomplete({
-        source: function( request, response ) {
-          $.getJSON( "/ramifood/ajax/autocomplete", {
-            term: extractLast( request.term )
-          }, response );
-        },
-        search: function() {
-          // custom minLength
-          var term = extractLast( this.value );
-          if ( term.length < 1 ) {
-            return false;
-          }
-        },
-        focus: function() {
-          // prevent value inserted on focus
-          return false;
-        },
-        select: function( event, ui ) {
-          var terms = split( this.value );
-          // remove the current input
-          terms.pop();
-          // add the selected item
-          terms.push(ui.item.value );
-          // add placeholder to get the comma-and-space at the end
-          terms.push( "" );
-          this.value = terms.join( ", " );
-          return false;
-        }
-      });
-  });
-  </script>
-  
-  
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.min.js" type="text/javascript" charset="utf-8">
+</script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+<?php //echo $this->Html->css('autocomplete'); ?>
 <div class="span9">
 
-<!--<div class="ui-widget">
-  <label for="birds">Birds: </label>
-  <input id="birds" size="50" />
-</div>-->
 
-    <?php echo $this->Form->create('Message', array(
-        'url' => array('action' => 'add')
-)
-             
-); ?>
 
-     <div class="examples">
-       <?php echo $this->Form->input('to', array('type' => 'text','id' => 'messages')); ?>
-     </div>
+    <?php echo $this->Form->create('Message'); ?>
+
+    <?php echo $this->Form->input('to'); ?>
     <?php echo $this->Form->input('message'); ?>
 
     <?php echo $this->Form->submit('Envoyer le message', array('class' => 'btn')); ?>
@@ -116,8 +52,6 @@
 </div>
 <script>
     $(function() {
-
-    $('.response-form').hide();
 
         $('.response').click(function() {
             id = $(this).attr('id');

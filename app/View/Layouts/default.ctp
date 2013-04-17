@@ -32,8 +32,8 @@
         </style>
         <?php echo $this->Html->css('bootstrap-responsive.min'); ?>
         
-        
-        <?php echo $this->Html->script('jquery-1.8.2.min'); ?>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <?php //echo $this->Html->script('jquery-1.8.2.min'); ?>
 
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
