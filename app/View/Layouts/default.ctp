@@ -126,6 +126,7 @@
         </script>
         <div id="fb-root"></div>
         <?php echo $this->Html->script('facebook'); ?>
+         <script src="//connect.facebook.net/en_US/all.js"></script>
         <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
     </div> <!-- /container -->
 
