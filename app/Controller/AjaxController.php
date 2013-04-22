@@ -101,6 +101,23 @@ class AjaxController extends AppController {
 
     function upload() {
         
+        if(isset($_FILES))
+        {   
+        
+            debug($_FILES);
+            
+            /*$filename = $_SERVER['HTTP_X_FILE_NAME'];
+            $ext = pathinfo($filename, PATHINFO_EXTENSION);
+            $file = uniqid('ramifood').'.'.$ext;
+            $in = fopen('php://input','r');
+            
+            $path = APP.DS.WEBROOT_DIR.'img'.DS.'avatars'.$file.'.'.$ext;
+            if(move_uploaded_file($in, $path)){
+                echo 'ok';
+            }  else {
+                echo $in['tmp_name'];     
+            }*/
+        }
         
        $this->autoRender = false;
     }

@@ -39,7 +39,9 @@ class ProfilesController extends AppController {
 
             $d = $this->request->data['Profile']['avatar'];
 
-            if (!empty($d['tmp_name'])) {
+            debug($d); 
+            
+            /*if (!empty($d['tmp_name'])) {
 
                 $profile_id = $this->Profile->find('first', array(
                     'fields' => array('Profile.id'),
@@ -77,7 +79,7 @@ class ProfilesController extends AppController {
                     
                     $this->redirect($this->referer());
                 }
-            }
+            }*/
         }
 
         $this->render(false);

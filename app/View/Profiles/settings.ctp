@@ -4,49 +4,24 @@
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
 <?php echo $this->Html->css('bootstrap-fileupload.min'); ?>
+<?php echo $this->Html->script('/js/holder/holder'); ?>
 
-<script type="text/javascript">
-   var upload = function() {
-            fileInput = document.querySelector('#file');
-            fileInput.onchange = function() {
-                var xhr = new XMLHttpRequest();
-                xhr.open('POST', '/ramifood/ajax/upload');
-                xhr.upload.onprogress = function(e) {
-                    /*progress.value = e.loaded;
-                    progress.max = e.total;*/
-                    $('.fileupload-preview').empty().append('Loading ...')
-                };
 
-                xhr.onload = function() {
-                    alert('Upload terminé !');
-                };
-
-                var form = new FormData();
-                form.append('file', fileInput.files[0]);
-
-                xhr.send(form);
-            };
-
-            return false;
-   }
-       
-   
-</script>
 <div class="profiles form desc">
 
-    <form action="/" method="post" onsubmit="return upload();">
+    <img src="holder.js/225x200" class="img-rounded">
+    <?php
+    echo $this->Form->create('Profile', array(
+        'url' => array('controller' => 'profiles', 'action' => 'avatar'),
+        'type' => 'file',
+        'id' => 'uploading'
+    ));
+    ?>
 
-    <div class="fileupload fileupload-new" data-provides="fileupload">
-        <div class="fileupload-preview thumbnail" style="width: 200px; height: 150px;"></div>
-        <div>
-            <span class="btn btn-file"><span class="fileupload-new">Select image</span><span class="fileupload-exists">Change</span>
-                <input id="file" name="avatar" type="file" /></span>
-                <a href="#" class="btn fileupload-exists" data-dismiss="fileupload">Remove</a>
-            <input type="submit" value="envoyer" class="btn">
-        </div>
-    </div>
-    </form>
-
+    <?php echo $this->Form->input('avatar', array('label' => false,'type' => 'file', 'id' => 'avatar', 'style' => 'visibility:hidden;width: 40px;')); ?>
+    <input type="button" value="Choisir une photo" class="btn" onclick="$('#avatar').click();"/>
+    <input class="btn" type="submit" value="Envoyer"/>
+    <?php echo $this->Form->end(); ?>
 
     <hr>
     <?php
@@ -59,12 +34,12 @@
         <?php echo $this->Form->input('description', array('type' => 'textarea', 'default' => $profile['Profile']['description'])); ?>
         <?php echo $this->Form->input('address', array('default' => $profile['Profile']['address'])); ?>
         <?php echo $this->Form->input('zip', array('default' => $profile['Profile']['zip'])); ?>
-        <?php echo $this->Form->input('city', array('default' => $profile['Profile']['city'])); ?>
-        <?php echo $this->Form->submit('Modifier'); ?>
+<?php echo $this->Form->input('city', array('default' => $profile['Profile']['city'])); ?>
+<?php echo $this->Form->submit('Modifier'); ?>
     </fieldset>
 
 
-    <?php echo $this->Form->end(); ?>
+<?php echo $this->Form->end(); ?>
 
     <hr>
     <div class="users">
@@ -75,14 +50,13 @@
         ));
         ?>
 
-
         <?php echo $this->Form->input('username', array('label' => 'Nom d\'utilisateur', 'default' => $user['User']['username'])); ?>
         <?php echo $this->Form->input('firstname', array('label' => 'Prénom', 'default' => $user['User']['firstname'])); ?>
         <?php echo $this->Form->input('lastname', array('label' => 'Nom', 'default' => $user['User']['lastname'])); ?>
 
         <?php echo $this->Form->submit('Modifier'); ?>
 
-        <?php echo $this->Form->end(); ?>
+<?php echo $this->Form->end(); ?>
 
         <hr>
 
@@ -97,6 +71,67 @@
         <?php echo $this->Form->input('password', array('label' => 'Nouveau mot de passe')); ?>
         <?php echo $this->Form->submit('Modifier'); ?>
 
-        <?php echo $this->Form->end(); ?>
+<?php echo $this->Form->end(); ?>
     </div>
 </div>
+<script type="text/javascript">
+        /*  form = document.getElementById('uploading');
+         progression = document.getElementById('advance');
+         infos = document.getElementById('infos');
+         
+         inputfile = document.getElementById('avatar');
+         fichier = inputfile.files;
+         
+         $("#advance").hide();
+         
+         form.onsubmit = function(event) {
+         
+         event.preventDefault();
+         if (window.FormData) {
+         fd = new FormData();
+         } else {
+         alert('Form data non supporté');
+         }
+         
+         xhr = new XMLHttpRequest();
+         xhr.open("POST", form.getAttribute("action"), true);
+         
+         
+         xhr.onreadystatechange = function(event) {
+         if (this.readyState === 4) {
+         infos.innerHTML += event.target.responseText;
+         }
+         }
+         
+         xhr.upload.onprogress = function(event) {
+         $("#advance").show();
+         if (event.lengthComputable) {
+         p = Math.round(event.loaded * 100 / event.total);
+         infos.innerHTML += p.toString() + '%';
+         progression.setAttribute("aria-valuenow", p);
+         progression.value = p;
+         }
+         }
+         
+         xhr.onload = function(event) {
+         //infos.innerHTML += '<p style="color:green;">Chargement terminé</p>';
+         $('#advance').hide();
+         $("#infos").empty();
+         //document.location.reload();
+         }
+         
+         xhr.onerror = function(event) {
+         infos.innerHTML += '<p style="color:red;">Error</p>';
+         }
+         
+         xhr.onabort = function(event) {
+         infos.innerHTML += '<p style="color:orange;">Annulé</p>';
+         }
+         
+         //infos.innerHTML += "envoi de " + fichier[0].name + "...<br/>";
+         //fd.append(input);
+         
+         xhr.send(fd);
+         return false;
+         }*/
+</script>

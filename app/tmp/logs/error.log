@@ -16479,3 +16479,2775 @@ Request URL: /ramifood/assets/ico/favicon.png
 Stack Trace:
 #0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-04-17 21:48:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:49:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:49:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:50:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:50:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:51:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:51:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:55:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:55:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:56:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 21:56:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:42:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:42:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:43:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:44:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:44:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:52:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 22:52:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:06:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:06:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:08:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:08:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:08:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:08:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:11:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:11:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:14:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:14:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:15:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:15:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:18:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:18:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:37:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:37:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:37:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:37:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:42:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:42:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:45:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:45:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:48:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:48:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:49:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:49:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:50:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:50:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:51:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:51:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:53:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:53:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:59:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 23:59:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:00:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:00:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:01:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:01:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:02:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:02:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:04:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:04:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:04:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:04:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:05:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:05:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:06:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:06:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:07:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:07:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:27:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:27:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:34:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:34:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:38:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:38:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:40:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 00:40:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:25:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:25:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:25:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:28:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:28:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:29:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:29:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:29:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:29:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:36:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/images/ui-anim_basic_16x16.gif
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:57:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:57:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:59:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:59:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:59:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 19:59:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:00:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:00:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:02:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:02:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:05:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:05:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:17:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:17:42 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:26:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:26:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:26:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:28:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:28:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:41:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:41:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:41:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:44:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:44:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:46:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 20:46:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 21:49:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 21:49:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 23:12:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 23:12:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 19:30:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 19:30:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 20:37:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 20:37:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 20:37:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:25:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:25:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:25:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:25:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:26:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:26:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:27:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:27:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:27:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:27:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:27:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:28:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:28:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:29:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:29:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:29:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:30:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 21:30:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 22:01:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 22:39:27 Error: Fatal Error (1): Class 'Imagick' not found in [C:\wamp\www\ramifood\app\Controller\ProfilesController.php, line 57]
+2013-04-19 22:39:27 Error: [FatalErrorException] Class 'Imagick' not found
+Request URL: /ramifood/profiles/avatar
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 57, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-19 22:59:34 Error: Fatal Error (1): Class 'Imagick' not found in [C:\wamp\www\ramifood\app\Controller\ProfilesController.php, line 59]
+2013-04-19 22:59:34 Error: [FatalErrorException] Class 'Imagick' not found
+Request URL: /ramifood/profiles/avatar
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-19 23:02:55 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+',
+  'enabled' => true,
+)
+Request URL: /ramifood/profiles/settings
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 C:\wamp\www\ramifood\lib\Cake\Model\ConnectionManager.php(102): DboSource->__construct(Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(3209): ConnectionManager::getDataSource('default')
+#3 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(1108): Model->setDataSource('default')
+#4 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(3231): Model->setSource('profiles')
+#5 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(2688): Model->getDataSource()
+#6 C:\wamp\www\ramifood\app\Controller\ProfilesController.php(96): Model->find('first', Array)
+#7 [internal function]: ProfilesController->settings()
+#8 C:\wamp\www\ramifood\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(ProfilesController), Array)
+#9 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-04-19 23:03:08 Error: Fatal Error (1): Class 'Imagick' not found in [C:\wamp\www\ramifood\app\Controller\ProfilesController.php, line 59]
+2013-04-19 23:03:08 Error: [FatalErrorException] Class 'Imagick' not found
+Request URL: /ramifood/profiles/avatar
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-19 23:20:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:20:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:22:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:22:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:22:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:22:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:26:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:26:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:27:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:27:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:28:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:28:26 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:28:33 Error: Fatal Error (1): Class 'Imagick' not found in [C:\wamp\www\ramifood\app\Controller\ProfilesController.php, line 59]
+2013-04-19 23:28:33 Error: [FatalErrorException] Class 'Imagick' not found
+Request URL: /ramifood/profiles/avatar
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 1, 'Class 'Imagick'...', 'C:\wamp\www\ram...', 59, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-19 23:29:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:29:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:31:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:31:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:33:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:33:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:36:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:37:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:37:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:38:26 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:38:26 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:38:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:39:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:39:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:41:27 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:41:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:41:30 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:41:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:00 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:30 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:54 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:42:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:43:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/140x140
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:43:21 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/250x250
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:43:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/250x250
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:43:51 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/250x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:43:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:44:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/250x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:44:11 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/240x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:44:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:44:33 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/230x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:44:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:44:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/230x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:45:03 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/230x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:45:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/230x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:45:11 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:45:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:45:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:45:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:45:42 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:46:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:46:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:47:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:47:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:48:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:48:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/assets/ico/favicon.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-19 23:48:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:48:35 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:49:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:49:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:50:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:50:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:51:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:51:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:52:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:52:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:53:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:53:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:54:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:54:35 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:55:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:55:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:56:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:56:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:57:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:57:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:58:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:58:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:59:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-19 23:59:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:00:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:00:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:01:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:01:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:02:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:02:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:03:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:03:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:04:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:04:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:05:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:05:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:06:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:06:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:07:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:07:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:08:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:08:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:09:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:09:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:10:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:10:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:11:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:11:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:12:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:12:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:13:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:13:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:14:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:14:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:15:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:15:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:16:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:16:34 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:17:04 Error: [MissingActionException] Action ProfilesController::holder.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProfilesController',
+  'action' => 'holder.js',
+)
+Request URL: /ramifood/profiles/holder.js/225x200
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ProfilesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:17:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/js/dropzone/dropzone.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 00:18:01 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:18:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/js/dropzone/dropzone.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 00:18:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 00:19:05 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:19:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 00:19:27 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:19:27 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:19:28 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:19:28 Error: [MissingActionException] Action AnnouncesController::upload.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'AnnouncesController',
+  'action' => 'upload.php',
+)
+Request URL: /ramifood/announces/upload.php
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-20 00:21:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 00:21:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 01:04:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 01:05:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/images/spritemap.png
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-20 18:06:25 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\wamp\www\ramifood\app\Controller\AjaxController.php, line 104]
+2013-04-20 18:06:25 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /ramifood/ajax/like/
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-20 18:14:12 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\wamp\www\ramifood\app\Controller\AjaxController.php, line 104]
+2013-04-20 18:14:12 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /ramifood/ajax/confirmed/
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-20 18:14:14 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\wamp\www\ramifood\app\Controller\AjaxController.php, line 104]
+2013-04-20 18:14:14 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /ramifood/ajax/confirmed/
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 104, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-20 23:00:54 Error: [MissingControllerException] Controller class Holder.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Holder.jsController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/holder.js/900x300
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
