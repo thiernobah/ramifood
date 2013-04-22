@@ -32,7 +32,7 @@ class UsersController extends AppController {
 
         $user = $facebook->getUser();
         
-        debug($user);
+        //debug($user);
 
         if ($user) {
             try {
