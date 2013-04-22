@@ -5,9 +5,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'root',
-		'password' => '',
-		'database' => 'socialfood',
+		'login' => 'ramifood_usr',
+		'password' => 'azerty',
+		'database' => 'ramifood_db',
 		'prefix' => 'fo_',
 		'encoding' => 'utf8',
 	);
