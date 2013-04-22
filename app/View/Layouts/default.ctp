@@ -116,17 +116,16 @@
         <![endif]-->
         <?php $path = __DIR__ . '../Element/navs/admin-menu.ctp' ?>
         <script>
-            $(function() {
+            /*$(function() {
                 $('.dropdown-toggle').dropdown();
 
                 setInterval(function() {
                     $('#mess').load('<?php echo 'http://' . $_SERVER['SERVER_NAME'] . $this->here; ?> #mess');
 
                 }, 30000)
-            });
+            });*/
         </script>
         <?php echo $this->Html->script('facebook'); ?>
-         
         <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
     </div> <!-- /container -->
 
