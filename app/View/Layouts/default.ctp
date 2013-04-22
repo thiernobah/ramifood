@@ -42,6 +42,7 @@
      </head>
 
   <body>
+        <div id="fb-root"></div>
 
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
@@ -124,9 +125,8 @@
                 }, 30000)
             });
         </script>
-        <div id="fb-root"></div>
         <?php echo $this->Html->script('facebook'); ?>
-         <script src="//connect.facebook.net/en_US/all.js"></script>
+         
         <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
     </div> <!-- /container -->
 
