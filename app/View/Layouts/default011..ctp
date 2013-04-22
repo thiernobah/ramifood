@@ -70,13 +70,13 @@
                 </ul>
               </li>
             </ul>
-            <!--<form class="navbar-form pull-right">
+            <form class="navbar-form pull-right">
               <input class="span2" type="text" placeholder="Email">
               <input class="span2" type="password" placeholder="Password">
               <button type="submit" class="btn">Sign in</button>
-            </form>-->
+            </form>
               
-              <a href="#" class="btn btn-info pull-right">Ajouter une annonce</a>
+              <a href="#" class="btn pull-right">Ajouter une annonce</a>
               
           </div><!--/.nav-collapse -->
         </div>
@@ -124,6 +124,7 @@
                 }, 30000)
             });
         </script>
+        <div id="fb-root"></div>
         <?php echo $this->Html->script('facebook'); ?>
         <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
     </div> <!-- /container -->
