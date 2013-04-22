@@ -37,7 +37,7 @@ class UsersController extends AppController {
         if ($user) {
             try {
                 $data = $facebook->api('/me');
-                die($data);
+                debug($data);
             } catch (FacebookApiException $e) {
                 debug($e);
             }
