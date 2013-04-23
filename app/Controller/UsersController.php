@@ -37,6 +37,8 @@ class UsersController extends AppController {
                 debug($e);
                 die();
             }
+        }  else {
+            die('plop');    
         }
     }
 
