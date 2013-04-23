@@ -9,11 +9,13 @@
                 <?php echo $this->Form->submit('Se connecter', array('class' => 'btn')); ?>
 	</fieldset>
 <?php echo $this->Form->end(); ?>
-      
-    <div class="">
+      <fb:login-button>
+          <a href="<?php echo $this->Html->url(array('action' => 'facebook')); ?>" class="fbconnect">facebook connect</a>
+      </fb:login-button>
+    <!--<div class="">
         Se connecter avec facebook
         <a href="<?php echo $this->Html->url(array('action' => 'facebook')); ?>" class="fbconnect">facebook connect</a>
-    </div>    
+    </div> -->   
       
     
 </div>

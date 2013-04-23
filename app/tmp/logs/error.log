@@ -19351,3 +19351,28 @@ Stack Trace:
 #14 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #15 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #16 {main}
+2013-04-23 00:42:21 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'ramifood_usr\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /ramifood/users/login
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Model\Datasource\DboSource.php(262): Mysql->connect()
+#1 C:\wamp\www\ramifood\lib\Cake\Model\ConnectionManager.php(102): DboSource->__construct(Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(3209): ConnectionManager::getDataSource('default')
+#3 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(1108): Model->setDataSource('default')
+#4 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(3231): Model->setSource('users')
+#5 C:\wamp\www\ramifood\lib\Cake\Model\Model.php(1319): Model->getDataSource()
+#6 C:\wamp\www\ramifood\lib\Cake\View\Helper\FormHelper.php(198): Model->schema()
+#7 C:\wamp\www\ramifood\lib\Cake\View\Helper\FormHelper.php(448): FormHelper->_introspectModel('User', 'fields')
+#8 C:\wamp\www\ramifood\app\View\Users\login.ctp(2): FormHelper->create('User')
+#9 C:\wamp\www\ramifood\lib\Cake\View\View.php(948): include('C:\wamp\www\ram...')
+#10 C:\wamp\www\ramifood\lib\Cake\View\View.php(910): View->_evaluate('C:\wamp\www\ram...', Array)
+#11 C:\wamp\www\ramifood\lib\Cake\View\View.php(471): View->_render('C:\wamp\www\ram...')
+#12 C:\wamp\www\ramifood\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#13 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#14 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
