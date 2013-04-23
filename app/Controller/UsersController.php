@@ -16,17 +16,17 @@ class UsersController extends AppController {
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
         
-        if(!$this->Session->started()){
+        /*if(!$this->Session->started()){
             
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
             session_start();
             
-        }
+        }*/
         
         $facebook = new Facebook(
                 array(
-                        'appId' => '143633382480206',
-                        'secret' => '6b28e108ba9408dac51dd60579a773e3'
+                        'appId' => '602999063061173',
+                        'secret' => '50ea7efd50a2f9ebcf70f58941c66262'
                 )
         );
 
@@ -38,6 +38,7 @@ class UsersController extends AppController {
             try {
                 $data = $facebook->api('/me');
                 debug($data);
+                die();
             } catch (FacebookApiException $e) {
                 debug($e);
             }
