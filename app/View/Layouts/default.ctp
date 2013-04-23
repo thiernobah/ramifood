@@ -126,7 +126,8 @@
                     });
                 </script>
                 <div id="fb-root"></div>
-                <script>
+                <?php echo $this->Html->script('facebook'); ?>
+                <!--<script>
                     window.fbAsyncInit = function() {
                         FB.init({
                             appId: '602999063061173',
@@ -148,7 +149,7 @@
                                 '//connect.facebook.net/en_US/all.js';
                         document.getElementById('fb-root').appendChild(e);
                     }());
-                </script>
+                </script>-->
 
 <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
             </div> <!-- /container -->

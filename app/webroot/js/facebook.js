@@ -1,6 +1,6 @@
 window.fbAsyncInit = function() {
     FB.init({
-        appId: '143633382480206', // App ID
+        appId: '602999063061173', // App ID
         channelUrl: '//www.ramifood.com/channel.html', // Channel File
         status: true, // check login status
         cookie: true, // enable cookies to allow the server to access the session
