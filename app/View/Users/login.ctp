@@ -10,7 +10,7 @@
 	</fieldset>
 <?php echo $this->Form->end(); ?>
       
-  <a href="<?php echo $this->Html->url(array('action' => 'facebook')); ?>" class="fbconnect"><fb:login-button></fb:login-button></a>
+  <a href="<?php echo $this->Html->url(array('action' => 'facebook')); ?>" class="fbconnect">facebook connect</a>
       
     <!--<div class="">
         Se connecter avec facebook
