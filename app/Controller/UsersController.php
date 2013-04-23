@@ -37,6 +37,7 @@ class UsersController extends AppController {
                 die();
             } catch (FacebookApiException $e) {
                 debug($e);
+                die();
             }
         }
     }
