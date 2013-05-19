@@ -7,6 +7,12 @@ App::uses('AppModel', 'Model');
  */
 class Announce extends AppModel {
     
+public $validate = array(
+    
+    
+    
+);    
+    
 /**
  * belongsTo associations
  *
