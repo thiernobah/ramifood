@@ -140,6 +140,38 @@ class AjaxController extends AppController {
             $this->autoRender = false;
         }
     }
+    
+    function department()
+    {
+        $t = array();
+        if($this->request->is('post'))
+        {
+            $this->loadModel('Department');
+            $list = $this->Department->find('list', array('conditions' => array('Department.regions_id' => $this->request->data['region_id']) ));
+            
+            $t[] = array('id' => 0, 'name' => 'Choisir un departement');
+            foreach ($list as $key => $value) {
+                $t[] = array('id' => $key, 'name' => $value);
+            }
+            
+            echo json_encode($t);
+        }
+        $this->autoRender = false;
+    }
+    
+    function cities()
+    {
+        if($this->request->is('post'))
+        {
+            $this->loadModel('City');
+            $list = $this->City->find('all', array('limit' =>10,'fields' => array('City.id','City.name', 'City.postalcode'),'conditions' => array('City.departments_id' => $this->request->data['department'],
+                'OR' => array(
+    array('City.postalcode LIKE' => "%{$this->request->data['name_startsWith']}%"),
+    array('City.name LIKE' => "%{$this->request->data['name_startsWith']}%") ))));
+            echo json_encode($list);
+        }
+        $this->autoRender = false;
+    }
 
 }
 

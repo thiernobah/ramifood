@@ -11,18 +11,10 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <?php echo $this->Html->meta('icon'); ?>
-        <!-- css files -->
-        <!-- end css -->
-
-        <!-- js files -->
-
-        <!-- end js -->
-
         <?php echo $this->fetch('meta'); ?>
         <?php echo $this->fetch('css'); ?>
         <?php echo $this->fetch('script'); ?>
-
-        <!-- Le styles -->
+        
         <?php echo $this->Html->css('bootstrap.min'); ?>
         <style type="text/css">
             body {
@@ -30,59 +22,39 @@
                 padding-bottom: 40px;
             }
         </style>
-        <?php echo $this->Html->css('bootstrap-responsive.min'); ?>
-
+        
+        <?php //echo $this->Html->css('bootstrap-responsive.min'); ?>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
-          <script src="../assets/js/html5shiv.js"></script>
+          <script src="/ramifod/js/html5shiv.js"></script>
         <![endif]-->
-
     </head>
 
     <body>
         <div id="fb-root"></div>
-
         <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="brand" href="#">Project name</a>
-                    <div class="nav-collapse collapse">
-                        <ul class="nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#contact">Contact</a></li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
-                                    <li class="divider"></li>
-                                    <li class="nav-header">Nav header</li>
-                                    <li><a href="#">Separated link</a></li>
-                                    <li><a href="#">One more separated link</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <form class="navbar-form pull-right">
-                            <input class="span2" type="text" placeholder="Email">
-                            <input class="span2" type="password" placeholder="Password">
-                            <button type="submit" class="btn">Sign in</button>
-                        </form>
-
-                        <a href="#" class="btn pull-right">Ajouter une annonce</a>
-
-                    </div><!--/.nav-collapse -->
-                </div>
-            </div>
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">Project name</a>
+          <div class="nav-collapse collapse">
+            <p class="navbar-text pull-right">
+              Logged in as <a href="#" class="navbar-link">Username</a>
+            </p>
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
         </div>
+      </div>
+    </div>
 
         <div class="container">
 
@@ -93,7 +65,7 @@
             <div class="row">
                 <?php echo $this->Session->flash(); ?>
                 <?php echo $this->fetch('content'); ?>
-                <hr>
+            </div>
 
                 <footer>
                     <p>&copy; Company 2013</p>

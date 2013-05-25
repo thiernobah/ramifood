@@ -1,7 +1,10 @@
 # Test URI
 # Ignore netbeans folder
 nbproject/*
- 
+/app/Config/database.php
+/app/tmp
+
+
 # Ignore private folder
 /app/private/*
 !/app/private/empty
@@ -47,6 +50,7 @@ Thumbs.db
 /app/tmp/logs/*
 !/app/tmp/logs/
 !/app/tmp/logs/empty
+!/app/tmp/logs/errors.log
  
 /app/tmp/sessions/*
 !/app/tmp/sessions/

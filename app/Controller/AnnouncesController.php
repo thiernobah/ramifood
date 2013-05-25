@@ -66,6 +66,10 @@ class AnnouncesController extends AppController {
     public function add() {
         if ($this->request->is('post')) {
             $this->Announce->create();
+            
+            $this->request->data['Announce']['cities_id'] = $this->request->data['cities_id'];
+            debug($this->request->data);
+            
             if ($this->Announce->save($this->request->data)) {
                 $this->Session->setFlash(__('The announce has been saved'));
                 $this->redirect(array('action' => 'index'));
@@ -74,7 +78,8 @@ class AnnouncesController extends AppController {
             }
         }
         $recipes = $this->Announce->Recipe->find('list');
-        $this->set(compact('recipes'));
+        $regions = $this->Announce->Region->find('list');
+        $this->set(compact('recipes','regions'));
     }
 
     /**
