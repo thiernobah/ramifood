@@ -27778,3 +27778,23 @@ Stack Trace:
 #8 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AnnouncesController), Object(CakeRequest), Object(CakeResponse))
 #9 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #10 {main}
+2013-05-26 14:19:15 Error: Fatal Error (4): syntax error, unexpected '$path' (T_VARIABLE) in [C:\wamp\www\ramifood\app\Controller\PagesController.php, line 58]
+2013-05-26 14:19:15 Error: [FatalErrorException] syntax error, unexpected '$path' (T_VARIABLE)
+Request URL: /ramifood/
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 58, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 58, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-26 14:19:16 Error: Fatal Error (4): syntax error, unexpected '$path' (T_VARIABLE) in [C:\wamp\www\ramifood\app\Controller\PagesController.php, line 58]
+2013-05-26 14:19:16 Error: [FatalErrorException] syntax error, unexpected '$path' (T_VARIABLE)
+Request URL: /ramifood/
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 58, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 58, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

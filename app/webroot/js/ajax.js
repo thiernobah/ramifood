@@ -1,9 +1,6 @@
 $(function() {
 $("#dep_display").hide();
 $("#citie_display").hide();
-
-			
-
 	$.datepicker.regional['fr'] = {
 		closeText: 'Fermer',
 		prevText: 'Précédent',
@@ -29,7 +26,7 @@ $( "#datepicker" ).datepicker();
     /* find department */
     $("#an_region").change(function() {
         var str = "";
-        $("#dep_display").after('<img src="/ramifood/img/blue_ajax.gif" class="aload">');
+        $("#an_region").after('<img src="/ramifood/img/blue_ajax.gif" class="aload">');
         $("#an_region option:selected").each(function() {
             region_id = $(this).val();
             url = '/ramifood/ajax/department';
