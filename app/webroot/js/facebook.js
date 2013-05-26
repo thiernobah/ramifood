@@ -5,7 +5,7 @@ window.fbAsyncInit = function() {
         status: true, // check login status
         cookie: true, // enable cookies to allow the server to access the session
         xfbml: true,  // parse XFBML
-        Oauth:true
+       // Oauth:true
     });
     FB.api('/me', function(user) {
         if (user) {
@@ -40,8 +40,8 @@ $(function() {
             } else {
                 console.log('User cancelled login or did not fully authorize.');
             }
-        },{scope:'email, username, first_name, last_name, birthday, picture, facebook_id'});
+        },{scopes:'email, username, first_name, last_name, birthday, picture, facebook_id'});
         
         return false;
     });
-})
+});
