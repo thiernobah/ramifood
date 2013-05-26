@@ -40,7 +40,7 @@ $(function() {
             } else {
                 console.log('User cancelled login or did not fully authorize.');
             }
-        },{scopes:'email, username, first_name, last_name, birthday, picture, facebook_id'});
+        },{scope:'email, username, first_name, last_name, birthday, picture, facebook_id'});
         
         return false;
     });
