@@ -1,3 +1,9 @@
+AuthUserFile /var/www/vhosts/ramifood.com/httpdocs/.htpasswd
+AuthName "Restricted Access"
+AuthType Basic
+<limit GET>
+require valid-user
+</Limit> 
 <IfModule mod_rewrite.c>
    RewriteEngine on
    RewriteRule    ^$ app/webroot/    [L]

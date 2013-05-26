@@ -2,7 +2,7 @@
 # Ignore netbeans folder
 nbproject/*
 /app/Config/database.php
-/app/tmp
+/app/tmp/*
 
 
 # Ignore private folder
