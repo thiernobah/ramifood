@@ -50,8 +50,9 @@ class UsersController extends AppController {
                         $this->request->data['User']['fbid'] = $data['id'];
                         $this->request->data['User']['accepted'] = 1;
                         $this->request->data['User']['online'] = 1;
+                        $this->request->data['User']['gender'] = $data['gender'];
 
-                        if ($this->User->save($this->request->data)) {
+                        if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
