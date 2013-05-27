@@ -37,8 +37,8 @@ class UsersController extends AppController {
                 ));
                 if (!empty($ismember)) {
                     $ismember['User']['password'] = null;
-                    debug($ismember);
-                    die();
+                    //debug($ismember);
+                    //die();
                     $this->Auth->login($ismember['User']);
                     $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
