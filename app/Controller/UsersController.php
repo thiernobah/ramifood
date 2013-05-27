@@ -16,7 +16,7 @@ class UsersController extends AppController {
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
 
-        $d = $users_infos['Users'];
+       // $d = $users_infos['Users'];
 
 
 
@@ -37,6 +37,7 @@ class UsersController extends AppController {
             try {
                 $data = $facebook->api('/me');
 
+                $this->User->recursive = -1; 
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
                 if (!empty($ismember)) {
@@ -52,7 +53,7 @@ class UsersController extends AppController {
                             'lastname' => $data['last_name'],
                             'birthday' => $data['birthday'],
                             'gender' => $data['gender'],
-                            'role' => $data['author'],
+                            'role' => 'author',
                             'fbid' => $data['id'],
                             'accepted' => true
                         );
