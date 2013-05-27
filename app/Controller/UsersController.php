@@ -36,6 +36,7 @@ class UsersController extends AppController {
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
                 if (!empty($ismember)) {
+                    $ismember['User']['password'] = null;
                     debug($ismember);
                     die();
                     $this->Auth->login($ismember['User']);
