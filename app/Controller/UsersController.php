@@ -41,7 +41,7 @@ class UsersController extends AppController {
                 } else {
 
                     if ($this->request->is('post')) {
-                        $d = array(
+                        $d['User'] = array(
                             'username' => $this->request->data['User']['username'],
                             'email' => $data['email'],
                             'firstname' => $data['first_name'],
