@@ -54,6 +54,7 @@ class UsersController extends AppController {
 
                         if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
+                            debug($u);
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
                         } else {
