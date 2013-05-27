@@ -1,7 +1,7 @@
 <div class="span12">
     <h5>Votre inscription est presque terminée veuillez choisir un mot de passe et un nom d'utilisateur</h5>
 
-    <?php echo $this->Form->create('Users', array('class' => 'form-horizontal')); ?>
+    <?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
 
     <div class="control-group">
         <label class="control-label" for="inputRegion"><?php echo __('Nom d\'utilisateur'); ?></label>
