@@ -15,7 +15,7 @@ class UsersController extends AppController {
 
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
-        
+
         if (!$this->Session->started()) {
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
         }
@@ -32,33 +32,31 @@ class UsersController extends AppController {
             try {
                 $data = $facebook->api('/me');
 
-                $this->User->recursive = -1; 
+                $this->User->recursive = -1;
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
                 if (!empty($ismember)) {
-                     $this->Auth->login($ismember['User']);
-                     $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                    $this->Auth->login($ismember['User']);
+                    $this->redirect(array('controller' => 'profile', 'action' => 'index'));
                 } else {
 
                     if ($this->request->is('post')) {
-                        $d = array(
-                            'username' => $this->request->data['User']['username'],
-                            'email' => $data['email'],
-                            'firstname' => $data['first_name'],
-                            'lastname' => $data['last_name'],
-                            'birthday' => $data['birthday'],
-                            'gender' => $data['gender'],
-                            'role' => 'author',
-                            'fbid' => $data['id'],
-                            'accepted' => true,
-                        );
+                        //debug($data);
+                        $this->request->data['User']['firstname'] = $data['first_name'];
+                        $this->request->data['User']['lastname'] = $data['last_name'];
+                        $this->request->data['User']['email'] = $data['email'];
+                        $this->request->data['User']['birthday'] = $data['birthday'];
+                        $this->request->data['User']['role'] = 'author';
+                        $this->request->data['User']['fbid'] = $data['id'];
+                        $this->request->data['User']['accepted'] = 1;
+                        $this->request->data['User']['online'] = 1;
 
-                        if ($this->User->save($d)) {
+                        if ($this->User->save($this->request->data)) {
                             $u = $this->User->read();
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
-                        }  else {
-                            $this->Session->setFlash('Attention vous n\'êtes pas connecter', array('class' => 'alert alert-error'));    
+                        } else {
+                            $this->Session->setFlash('Attention vous n\'êtes pas connecter', array('class' => 'alert alert-error'));
                         }
                     }
                 }
