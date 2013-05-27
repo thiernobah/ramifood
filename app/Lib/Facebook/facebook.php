@@ -126,8 +126,8 @@ class Facebook extends BaseFacebook
       return;
     }
 
-    /*$session_var_name = $this->constructSessionVariableName($key);
-    unset($_SESSION[$session_var_name]);*/
+    $session_var_name = $this->constructSessionVariableName($key);
+    //unset($_SESSION[$session_var_name]);
   }
 
   protected function clearAllPersistentData() {
