@@ -15,12 +15,7 @@ class UsersController extends AppController {
 
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
-
-       // $d = $users_infos['Users'];
-
-
-
-
+        
         if (!$this->Session->started()) {
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
         }
@@ -62,6 +57,8 @@ class UsersController extends AppController {
                             $u = $this->User->read();
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                        }  else {
+                            $this->Session->setFlash('Attention vous n\'êtes pas connecter', null, array('class' => 'alert alert-error'));    
                         }
                     }
                 }
