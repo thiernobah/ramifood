@@ -37,7 +37,7 @@ class UsersController extends AppController {
                 ));
                 if (!empty($ismember)) {
                     $this->Auth->login($ismember['User']);
-                    $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                    $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
 
                     if ($this->request->is('post')) {
@@ -55,8 +55,9 @@ class UsersController extends AppController {
                         if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
                             debug($u);
+                            die();
                             $this->Auth->login($u['User']);
-                            $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                            $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                         } else {
                             $this->Session->setFlash('Attention vous n\'êtes pas connecter', array('class' => 'alert alert-error'));
                         }
