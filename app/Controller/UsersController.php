@@ -36,6 +36,8 @@ class UsersController extends AppController {
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
                 if (!empty($ismember)) {
+                    debug($ismember);
+                    die();
                     $this->Auth->login($ismember['User']);
                     $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
