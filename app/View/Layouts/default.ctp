@@ -60,7 +60,7 @@
 
             <!---->
 
-           
+           <?php debug($this->Session->read()); ?>
 
             <!-- Example row of columns -->
             <div class="row">
