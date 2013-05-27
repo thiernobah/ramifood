@@ -53,7 +53,7 @@ class UsersController extends AppController {
                             'accepted' => true
                         );
 
-                        if ($this->User->signup_user($d)) {
+                        if ($this->User->save($d)) {
                             $u = $this->User->read();
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
