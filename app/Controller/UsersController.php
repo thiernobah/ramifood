@@ -16,6 +16,11 @@ class UsersController extends AppController {
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
 
+        $d = $users_infos['Users'];
+
+
+
+
         if (!$this->Session->started()) {
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
         }
@@ -31,14 +36,40 @@ class UsersController extends AppController {
         if ($user) {
             try {
                 $data = $facebook->api('/me');
-                debug($data);
-                die();
+
+                $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
+                ));
+                if (!empty($ismember)) {
+                     $this->Auth->login($ismember['User']);
+                     $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                } else {
+
+                    if ($this->request->is('post')) {
+                        $d = array(
+                            'username' => $this->request->data['User']['username'],
+                            'email' => $data['email'],
+                            'firstname' => $data['first_name'],
+                            'lastname' => $data['last_name'],
+                            'birthday' => $data['birthday'],
+                            'gender' => $data['gender'],
+                            'role' => $data['author'],
+                            'fbid' => $data['id'],
+                            'accepted' => true
+                        );
+
+                        if ($this->User->signup_user($d)) {
+                            $u = $this->User->read();
+                            $this->Auth->login($u['User']);
+                            $this->redirect(array('controller' => 'profile', 'action' => 'index'));
+                        }
+                    }
+                }
             } catch (FacebookApiException $e) {
                 debug($e);
-                die();
             }
-        }  else {
-            die('plop');    
+        } else {
+            $this->Session->setFlash('Erreur de connexion avec facebook', null, array('class' => 'alert alert-error'));
+            $this->redirect(array('controllers' => 'users', 'action' => 'login'));
         }
     }
 
@@ -137,7 +168,7 @@ class UsersController extends AppController {
                 $this->Session->setFlash(__('The user could not be saved. Please, try again.'));
             }
         }
-        
+
         $this->layout = 'home';
     }
 

@@ -121,6 +121,7 @@ class User extends AppModel {
         'password' => array(
             'notempty' => array(
                 'rule' => array('notempty'),
+                'required' => false,
                 'message' => 'Ce champs est vide, vous devez le remplir',
             ),
             'between' => array(
@@ -142,7 +143,7 @@ class User extends AppModel {
 
         if ($this->save($data)) {
             $users_id = $this->getLastInsertID();
-            debug($users_id);
+           
             if ($profile->save(array('users_id' => (int) $users_id))) {
                 $flag = true;
             }
