@@ -41,7 +41,7 @@ class UsersController extends AppController {
                 } else {
 
                     if ($this->request->is('post')) {
-                        $d['User'] = array(
+                        $d = array(
                             'username' => $this->request->data['User']['username'],
                             'email' => $data['email'],
                             'firstname' => $data['first_name'],
@@ -50,7 +50,7 @@ class UsersController extends AppController {
                             'gender' => $data['gender'],
                             'role' => 'author',
                             'fbid' => $data['id'],
-                            'accepted' => true
+                            'accepted' => true,
                         );
 
                         if ($this->User->save($d)) {
@@ -58,7 +58,7 @@ class UsersController extends AppController {
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profile', 'action' => 'index'));
                         }  else {
-                            $this->Session->setFlash('Attention vous n\'êtes pas connecter', null, array('class' => 'alert alert-error'));    
+                            $this->Session->setFlash('Attention vous n\'êtes pas connecter', array('class' => 'alert alert-error'));    
                         }
                     }
                 }
