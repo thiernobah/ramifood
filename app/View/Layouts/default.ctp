@@ -58,6 +58,8 @@
 
         <div class="container">
 
+            <?php debug($this->Session->read()) ?>
+            
             <!-- Example row of columns -->
             <div class="row">
                 <?php echo $this->Session->flash(); ?>
