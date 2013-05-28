@@ -40,6 +40,9 @@ class UsersController extends AppController {
         if ($user) {
             try {
                 $data = $facebook->api('/me');
+                
+                debug($data);
+                die();
 
                 $this->User->recursive = -1;
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
