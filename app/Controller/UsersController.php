@@ -48,7 +48,6 @@ class UsersController extends AppController {
 
                 if (!empty($ismember)) {
 
-                    unset($ismember['User']['password']);
 
                     if ($this->Auth->login($ismember['User'])) {
                         $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
@@ -69,7 +68,6 @@ class UsersController extends AppController {
                         $this->request->data['User']['password'] = $this->getRandomString();
                         if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
-                            unset($u['User']['password']);
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                         } else {
