@@ -16,9 +16,9 @@ class UsersController extends AppController {
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
 
-        if (!$this->Session->started()) {
+        /*if (!$this->Session->started()) {
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
-        }
+        }*/
 
         $facebook = new Facebook(
                 array(
@@ -42,7 +42,7 @@ class UsersController extends AppController {
                     unset($ismember['User']['password']);
                     
                     if($this->Auth->login($ismember['User'])){ 
-                      $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
+                           $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                     }
                 } else {
 
