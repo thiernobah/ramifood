@@ -1,6 +1,6 @@
 <?php $description = __d('socialfood_dev', 'Repas chez l\'habitants, Recettes de cuisine, Chat'); ?>
 <!DOCTYPE html>
-<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<html>
     <head>
         <meta charset="utf-8">
         <title>
@@ -32,7 +32,6 @@
     </head>
 
     <body>
-        <div id="fb-root"></div>
         <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container-fluid">
