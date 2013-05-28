@@ -38,15 +38,14 @@ class UsersController extends AppController {
                 
                 
                 if (!empty($ismember)) {
-                    //debug($ismember);
-                    //die();
+                    
                     unset($ismember['User']['password']);
                     $this->Auth->login($ismember['User']);
                     $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
 
                     if ($this->request->is('post')) {
-                        //debug($data);
+                        
                         $this->request->data['User']['firstname'] = $data['first_name'];
                         $this->request->data['User']['lastname'] = $data['last_name'];
                         $this->request->data['User']['email'] = $data['email'];
@@ -59,8 +58,7 @@ class UsersController extends AppController {
 
                         if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
-                            debug($u);
-                            die();
+                            unset($u['User']['password']);
                             $this->Auth->login($u['User']);
                             $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                         } else {
@@ -69,7 +67,7 @@ class UsersController extends AppController {
                     }
                 }
             } catch (FacebookApiException $e) {
-                debug($e);
+                
             }
         } else {
             $this->Session->setFlash('Erreur de connexion avec facebook', null, array('class' => 'alert alert-error'));
