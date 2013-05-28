@@ -40,8 +40,10 @@ class UsersController extends AppController {
                 if (!empty($ismember)) {
                     
                     unset($ismember['User']['password']);
-                    $this->Auth->login($ismember['User']);
-                    $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
+                    
+                    if($this->Auth->login($ismember['User'])){ 
+                      $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
+                    }
                 } else {
 
                     if ($this->request->is('post')) {
