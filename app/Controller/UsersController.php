@@ -13,6 +13,15 @@ class UsersController extends AppController {
         parent::beforeFilter();
     }
 
+    function getRandomString($length = 10) {
+        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        $randomString = '';
+        for ($i = 0; $i < $length; $i++) {
+            $randomString .= $characters[rand(0, strlen($characters) - 1)];
+        }
+        return $randomString;
+    }
+
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
 
@@ -35,19 +44,19 @@ class UsersController extends AppController {
                 $this->User->recursive = -1;
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
-                
-                
+
+
                 if (!empty($ismember)) {
-                    
+
                     unset($ismember['User']['password']);
-                    
-                    if($this->Auth->login($ismember['User'])){ 
-                           $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
+
+                    if ($this->Auth->login($ismember['User'])) {
+                        $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                     }
                 } else {
 
                     if ($this->request->is('post')) {
-                        
+
                         $this->request->data['User']['firstname'] = $data['first_name'];
                         $this->request->data['User']['lastname'] = $data['last_name'];
                         $this->request->data['User']['email'] = $data['email'];
@@ -57,7 +66,7 @@ class UsersController extends AppController {
                         $this->request->data['User']['accepted'] = 1;
                         $this->request->data['User']['online'] = 1;
                         $this->request->data['User']['gender'] = $data['gender'];
-
+                        $this->request->data['User']['password'] = $this->getRandomString();
                         if ($this->User->signup_user($this->request->data)) {
                             $u = $this->User->read();
                             unset($u['User']['password']);
