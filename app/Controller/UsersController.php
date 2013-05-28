@@ -35,9 +35,12 @@ class UsersController extends AppController {
                 $this->User->recursive = -1;
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
+                
+                
                 if (!empty($ismember)) {
                     //debug($ismember);
                     //die();
+                    unset($ismember['User']['password']);
                     $this->Auth->login($ismember['User']);
                     $this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
