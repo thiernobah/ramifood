@@ -49,7 +49,7 @@ class UsersController extends AppController {
                 if (!empty($ismember)) {
                     //$this->Session->write('User', $ismember);
                     
-                    $this->Auth->login($ismember);
+                $this->Auth->login($ismember['User']['id']);
                     $this->redirect($this->Auth->redirect());
                     //$this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
