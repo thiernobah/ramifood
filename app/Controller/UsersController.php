@@ -28,6 +28,8 @@ class UsersController extends AppController {
         /*if (!$this->Session->started()) {
             session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
         }*/
+        
+        $this->Session->read();
 
         $facebook = new Facebook(
                 array(
