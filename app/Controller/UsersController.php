@@ -24,10 +24,6 @@ class UsersController extends AppController {
 
     function facebook() {
         App::import('Lib', 'Facebook/facebook');
-
-        /*if (!$this->Session->started()) {
-            session_save_path('/var/www/vhosts/ramifood.com/httpdocs/app/tmp/sessions');
-        }*/
         
         $this->Session->read();
 
@@ -46,14 +42,11 @@ class UsersController extends AppController {
                 $this->User->recursive = -1;
                 $ismember = $this->User->find('first', array('conditions' => array('User.fbid' => $data['id'])
                 ));
-
-
+                
                 if (!empty($ismember)) {
-                    //$this->Session->write('User', $ismember);
                     
                 $this->Auth->login($ismember['User']);
                     $this->redirect($this->Auth->redirect());
-                    //$this->redirect(array('controller' => 'profiles', 'action' => 'index'));
                 } else {
 
                     if ($this->request->is('post')) {

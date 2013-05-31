@@ -56,8 +56,6 @@
     </div>
 
         <div class="container">
-
-            <?php debug($this->Session->read()) ?>
             
             <!-- Example row of columns -->
             <div class="row">
@@ -91,29 +89,7 @@
                 </script>
                 <div id="fb-root"></div>
                 <?php echo $this->Html->script('facebook'); ?>
-                <!--<script>
-                    window.fbAsyncInit = function() {
-                        FB.init({
-                            appId: '602999063061173',
-                            cookie: true,
-                            xfbml: true,
-                            oauth: true
-                        });
-                        FB.Event.subscribe('auth.login', function(response) {
-                            window.location.reload();
-                        });
-                        FB.Event.subscribe('auth.logout', function(response) {
-                            window.location.reload();
-                        });
-                    };
-                    (function() {
-                        var e = document.createElement('script');
-                        e.async = true;
-                        e.src = document.location.protocol +
-                                '//connect.facebook.net/en_US/all.js';
-                        document.getElementById('fb-root').appendChild(e);
-                    }());
-                </script>-->
+              
 
 <?php echo $this->Html->script('bootstrap-fileupload.min'); ?>
             </div> <!-- /container -->
