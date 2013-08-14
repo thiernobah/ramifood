@@ -27846,3 +27846,2946 @@ Stack Trace:
 #10 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #11 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #12 {main}
+2013-07-31 20:59:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:05:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:08:48 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:09:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:13:37 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:14:19 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:15:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:26:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:28:24 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 21:30:12 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:17:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:25:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:26:43 Error: [MissingActionException] Action UsersController::starter-template.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'starter-template.css',
+)
+Request URL: /ramifood/users/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-07-31 23:26:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:26:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/img/avatars/
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:27:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:27:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/img/avatars/
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:28:03 Error: [MissingActionException] Action RecipesController::starter-template.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'RecipesController',
+  'action' => 'starter-template.css',
+)
+Request URL: /ramifood/recipes/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-07-31 23:28:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:29:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:29:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:29:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:31:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:50:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:55:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:55:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:56:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-31 23:59:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:00:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:00:37 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:01:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:02:19 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:03:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:04:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:05:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:06:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:06:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:08:09 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:08:14 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:09:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:10:12 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:23:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:26:24 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:29:45 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:31:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:32:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:33:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:34:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:35:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:36:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:36:53 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:39:44 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:41:21 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:41:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:42:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:43:23 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:44:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:46:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:46:33 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:47:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:48:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:49:19 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:49:47 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:50:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:52:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:53:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:53:43 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:54:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:54:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:54:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:55:59 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:57:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:57:37 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:58:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:58:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 00:59:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 01:03:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 01:05:52 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 01:06:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 01:06:59 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:06:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:07:37 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:08:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:08:32 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:09:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:09:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:10:21 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:11:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:12:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:14:02 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:21:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:22:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:22:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:23:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:23:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:24:44 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:26:03 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:29:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:29:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:30:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:30:52 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:31:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:31:34 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:32:53 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:42:44 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:46:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:54:30 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:55:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:55:48 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:58:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:58:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:59:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 20:59:33 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:00:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:00:52 Error: [MissingActionException] Action UsersController::starter-template.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'starter-template.css',
+)
+Request URL: /ramifood/users/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-01 21:01:04 Error: [MissingActionException] Action UsersController::starter-template.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'starter-template.css',
+)
+Request URL: /ramifood/users/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\ramifood\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-01 21:07:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:08:45 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:09:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:10:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:15:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:15:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:15:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:15:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:15:49 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 21:16:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:45:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:46:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:47:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:47:45 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:48:56 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:51:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:52:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:53:37 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:53:44 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:54:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:55:48 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:55:59 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:56:19 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:56:48 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-01 23:59:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:00:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:00:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:01:02 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:01:14 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:01:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:01:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:05:30 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:05:43 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:06:23 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:06:24 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:06:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:06:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:06:41 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:07:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:07:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:07:56 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:07:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:08:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:08:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:09:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:09:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:09:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:09:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:13:30 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:14:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:15:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:16:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:18:33 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:19:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:19:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:19:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:32 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:34 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:35 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:21:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:22:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:24:03 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:24:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:24:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:26:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:26:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:29:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:29:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:30:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:30:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:32:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:33:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:37:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:37:56 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:38:03 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:38:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:39:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:40:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:40:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:41:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:41:49 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:42:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:44:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:45:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:46:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:46:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:49:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:54:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:54:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 00:58:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:17:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:19:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:19:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:19:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:20:33 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:20:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:21:12 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:21:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:21:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:21:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:21:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:22:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:22:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 01:26:06 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:08:53 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:08:59 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:09:06 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:09:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:09:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:09:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:10:14 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:12:23 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:44:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:52:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:52:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:54:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:55:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 22:58:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:03:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:00 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:21 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:23 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:04:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:05:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:05:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:06:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:06:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:07:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:07:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:08:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:08:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:08:45 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:09:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:09:32 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:09:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:10:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:11:09 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:11:25 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:12:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:12:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:12:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:13:26 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:13:49 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:14:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:15:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:16:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:16:41 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:18:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:18:18 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:19:44 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:19:47 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:20:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:20:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:21:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:22:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:22:57 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:25:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:27:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:28:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:29:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:31:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:46:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:48:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:49:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:49:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:50:20 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:52:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:53:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:54:18 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:54:40 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:55:50 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:55:54 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:56:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-02 23:56:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:00:30 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:01:23 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:02:47 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:05:08 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:12:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:12:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:15:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:16:13 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:17:49 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:18:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:19:41 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:23:00 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:24:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:24:47 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:26:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:26:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:27:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:27:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:28:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:31:19 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:33:06 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:33:42 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:35:41 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:37:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:37:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:37:58 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:43:07 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:43:10 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:44:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-03 00:45:02 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/starter-template.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-06 00:29:00 Error: Fatal Error (4): syntax error, unexpected '')); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\ramifood\app\View\Users\signup.ctp, line 67]
+2013-08-06 00:29:00 Error: [FatalErrorException] syntax error, unexpected '')); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /ramifood/users/signup
+Stack Trace:
+#0 C:\wamp\www\ramifood\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 67)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ram...', 67, Array)
+#2 C:\wamp\www\ramifood\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ram...', 67, Array)
+#3 C:\wamp\www\ramifood\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-06 00:29:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/css/bootstrap-responsive.min.css
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

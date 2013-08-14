@@ -12,58 +12,58 @@
     }
 </style>
 <div class="container">
-    <div class="bs-docs-social">
+    <div>
         <div class="users form">
             <?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
             <fieldset>
-                <div class="control-group">
+                <div class="form-group">
                      <div class="controls">
                 <h4>Rejoignez Ramifood et partager</h4>
                      </div>
                 </div>
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Nom d\'utilisateur'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('username', array('label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('username', array('label' => false, 'div' => false,'class' => 'form-control col-lg-5')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Adresse email'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('email', array('label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('email', array('label' => false, 'class' => 'col-lg-7')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Mot de passe'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('password', array('label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('password', array('label' => false, 'class' => 'col-lg-7')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Prénom'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('firstname', array('label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('firstname', array('label' => false, 'class' => 'col-lg-7')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Nom'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('lastname', array('label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('lastname', array('label' => false, 'class' => 'col-lg-7')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Date de naissance'); ?></label>
                     <div class="controls">
-                        <?php echo $this->Form->input('birthday', array('type' => 'text', 'label' => false, 'class' => 'span4')); ?>
+                        <?php echo $this->Form->input('birthday', array('type' => 'text', 'label' => false, 'class' => 'col-lg-7')); ?>
                     </div>
                 </div>
 
-                <div class="control-group">
+                <div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('J\'accepte les conditions d\'utilisations'); ?></label>
                     <div class="controls">
                         <?php echo $this->Form->input('accepted', array('label' => false)); ?>
@@ -72,10 +72,10 @@
 
                 <?php echo $this->Form->input('role', array('type' => 'hidden', 'default' => 'author')); ?>
 
-                <div class="control-group">
+                <div class="form-control">
                     <div class="controls">
 
-                        <?php echo $this->Form->submit('Créer mon compte', array('class' => 'btn btn-info span4')); ?>
+                       <?php echo $this->Form->submit('Créer mon compte', array('class' => 'btn btn-info col-lg-7')); ?>
                     </div>
                 </div>
             </fieldset>

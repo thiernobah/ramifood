@@ -165,7 +165,8 @@ class UsersController extends AppController {
      * @return void
      */
     public function signup() {
-        if ($this->request->is('post')) {
+        if ($this->request->is('post'))
+        {
             $this->User->create();
 
             if ($this->User->signup_user($this->request->data)) {
@@ -185,6 +186,7 @@ class UsersController extends AppController {
      * @return void
      */
     public function login() {
+        $this->layout = 'home';
         if ($this->request->is('post')) {
             if ($this->Auth->login()) {
                 $id = $this->Session->read('Auth.User.id');
