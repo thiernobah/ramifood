@@ -177,7 +177,7 @@ class UsersController extends AppController {
             }
         }
 
-        $this->layout = 'home';
+        $this->layout = 'signup';
     }
 
     /**
@@ -186,7 +186,7 @@ class UsersController extends AppController {
      * @return void
      */
     public function login() {
-        $this->layout = 'home';
+        $this->layout = 'signup';
         if ($this->request->is('post')) {
             if ($this->Auth->login()) {
                 $id = $this->Session->read('Auth.User.id');

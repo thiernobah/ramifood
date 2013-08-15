@@ -183,6 +183,27 @@ body {
   margin-top: 80px;
 }
 
+ .fb-connect{
+       background: url("../img/fb.png") no-repeat scroll 10px 10px #4A6192;
+    border: 0 none;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    display: block;
+    font-family: "droid-sans",sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 4px;
+    padding-left: 50px;
+    text-align: left;
+    width: 400px;
+    text-align: center;
+}
+a.fb-connect{
+  color: #fff;
+  text-decoration: none;
+}
 /* Ads in page headers */
 .carbonad {
   width: auto !important;
@@ -344,7 +365,6 @@ body {
 }
 /* Echo out a label for the example */
 .bs-example:after {
-  content: "Example";
   position: absolute;
   top:  15px;
   left: 15px;

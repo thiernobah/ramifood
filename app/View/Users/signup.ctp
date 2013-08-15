@@ -1,82 +1,90 @@
 <style>
-    .bs-docs-social {
-        border-color:#DDDDDD;
-        border-style:solid;
-        border-width:1px;
-        padding:15px 0;
-        margin-top: 30px;
-        padding-bottom: 0;
-         -webkit-border-radius: 10px;
-   -moz-border-radius: 10px;
-   border-radius: 10px;
+    .form-horizontal{ 
+        margin-left: auto;
+         margin-right: auto;
+          position: relative;
+          width: 400px;
+    }
+    .users{
+        margin-top: 32px;
+        
+    }
+    .form-group{
+        width: 400px;
+    }
+    fieldset{
+       width:  400px;
     }
 </style>
 <div class="container">
-    <div>
-        <div class="users form">
-            <?php echo $this->Form->create('User', array('class' => 'form-horizontal')); ?>
+    
+        <div class="users form bs-example">
+
+            <?php echo $this->Form->create('User', array('class' => 'form-horizontal', 'role' => 'form')); ?>
+
             <fieldset>
                 <div class="form-group">
-                     <div class="controls">
-                <h4>Rejoignez Ramifood et partager</h4>
-                     </div>
-                </div>
+                     
+                        <a href="" class="fb-connect">Se connecter avec facebook</a></div>
+                
+
+                <p style="text-align: center">ou</p>
+              
                 <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('Nom d\'utilisateur'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('username', array('label' => false, 'div' => false,'class' => 'form-control col-lg-5')); ?>
-                    </div>
+                    <label for="inputRegion"><?php echo __('Nom d\'utilisateur'); ?></label>
+                    
+                        <?php echo $this->Form->input('username', array('label' => false, 'div' => false,'class' => 'form-control ')); ?>
+                    
+                </div>
+
+                 <div class="form-group">
+                    <label for="inputRegion"><?php echo __('Nom'); ?></label>
+                   
+                        <?php echo $this->Form->input('lastname', array('label' => false, 'class' => 'form-control')); ?>
+                </div>
+
+                 <div class="form-group">
+                    <label for="inputRegion"><?php echo __('Prénom'); ?></label>
+                    
+                        <?php echo $this->Form->input('firstname', array('label' => false, 'class' => 'form-control')); ?>
+                    
                 </div>
 
                 <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('Adresse email'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('email', array('label' => false, 'class' => 'col-lg-7')); ?>
-                    </div>
+                    <label for="inputRegion"><?php echo __('Adresse email'); ?></label>
+                        <?php echo $this->Form->input('email', array('label' => false, 'class' => 'form-control')); ?>
                 </div>
 
                 <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('Mot de passe'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('password', array('label' => false, 'class' => 'col-lg-7')); ?>
-                    </div>
+                    <label for="inputRegion"><?php echo __('Mot de passe'); ?></label>
+                   
+                        <?php echo $this->Form->input('password', array('label' => false, 'class' => 'form-control')); ?>
+                
                 </div>
 
-                <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('Prénom'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('firstname', array('label' => false, 'class' => 'col-lg-7')); ?>
-                    </div>
-                </div>
+               
 
-                <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('Nom'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('lastname', array('label' => false, 'class' => 'col-lg-7')); ?>
-                    </div>
-                </div>
-
-                <div class="form-group">
+                <!--<div class="form-group">
                     <label class="control-label" for="inputRegion"><?php echo __('Date de naissance'); ?></label>
-                    <div class="controls">
-                        <?php echo $this->Form->input('birthday', array('type' => 'text', 'label' => false, 'class' => 'col-lg-7')); ?>
-                    </div>
-                </div>
+                    
+                        <?php echo $this->Form->input('birthday', array('type' => 'text', 'label' => false, 'class' => 'form-control')); ?>
+                    
+                </div>-->
 
                 <div class="form-group">
-                    <label class="control-label" for="inputRegion"><?php echo __('J\'accepte les conditions d\'utilisations'); ?></label>
-                    <div class="controls">
+                    <!--<label for="inputRegion"><?php echo __('J\'accepte les conditions d\'utilisations'); ?></label>-->
+                    
                         <?php echo $this->Form->input('accepted', array('label' => false)); ?>
-                    </div>
+                        <?php echo __('J\'accepte les conditions d\'utilisations'); ?>
+                   
                 </div>
 
                 <?php echo $this->Form->input('role', array('type' => 'hidden', 'default' => 'author')); ?>
 
-                <div class="form-control">
-                    <div class="controls">
-
-                       <?php echo $this->Form->submit('Créer mon compte', array('class' => 'btn btn-info col-lg-7')); ?>
-                    </div>
+                <div class="form-group">
+                    
+                       <?php echo $this->Form->submit('Créer mon compte', array('class' => 'btn btn-danger col-lg-12', 'div' => false)); ?>
+                   
                 </div>
             </fieldset>
             <?php echo $this->Form->end(); ?>
@@ -84,5 +92,5 @@
         <div class="social_login">
             
         </div>
-    </div>
+    
 </div>

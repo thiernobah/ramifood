@@ -7,107 +7,147 @@
     .ui-autocomplete-loading {
         background: white url('/ramifood/img/blue_ajax.gif') right center no-repeat;
     }
+    .form-group{
+        width: 600px;
+    }
+    fieldset{
+        width: 600px;
+    }
+    #AnnounceAddForm{
+        width: 600px;
+    }
+    .an-form{
+        /*box-shadow: 6px 0px 6px black inset;*/
+        -moz-box-shadow: 0px 5px 4px #DDDDDD;
+-webkit-box-shadow: 0px 5px 4px #DDDDDD;
+box-shadow: 0px 5px 4px #DDDDDD;
+    padding-left: 50px;
+    }
+
+    .form-left{
+        background: #f2f2f2;
+        padding: 5px;
+    }
+   /* .bs-docs-example{
+       -moz-box-shadow: 10px 10px 5px #888;
+-webkit-box-shadow: 10px 10px 5px #888;
+box-shadow: 10px 10px 5px #888;
+    }*/
 </style>
 
-<div class="container">
+<div class="container member-container">
 
-    <div class="span6">
+  <div class="row">
+   
+    <div class="col-lg-4 form-left">
+        <iframe src="http://player.vimeo.com/video/70762275" width="380" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+    </div>
+    <div class="col-lg-8 an-form">
         <?php echo $this->Form->create('Announce', array('class' => 'bs-docs-example form-horizontal')); ?>
         <fieldset>
+ 
+           <div class="form-group">
+            <legend><?php echo __('Déposer une annonce'); ?></legend>
+           </div>
 
-            <legend class="well"><?php echo __('Déposer une annonce'); ?></legend>
+            <div class="form-group">
+            <h3 class="label label-danger"> 1. <i class="icon-white icon-info-sign"></i> <?php echo __('Informations'); ?></h3>
+            </div>
 
-            <h5 class="label label-info"> 1. <i class="icon-white icon-info-sign"></i> <?php echo __('Informations'); ?></h5>
-
-            <div class="control-group">
-                <label class="control-label" for="inputTitre"><?php echo __('Titre'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('title', array('label' => false, 'class' => 'span4')); ?>
-                </div>
+            <div class="form-group">
+                <label for="inputTitre"><?php echo __('Titre'); ?></label>
+                
+                    <?php echo $this->Form->input('title', array('label' => false, 'div' => false ,'class' => 'form-control')); ?>
+            
             </div>
 
 
-            <div class="control-group">
-                <label class="control-label" for="inputPrix"><?php echo __('Prix'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('price', array('label' => false, 'class' => 'span4')); ?>
-                </div>
+            <div class="form-group">
+                <label for="inputPrix"><?php echo __('Prix'); ?></label>
+                
+                    <?php echo $this->Form->input('price', array('label' => false, 'div' => false ,'class' => 'form-control')); ?>
+              
             </div>
             
-            <div class="control-group">
+            <div class="form-group">
                 <label class="control-label" for="inputPlace"><?php echo __('Nombre de personnes acceptés'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('place', array('label' => false, 'class' => 'span4')); ?>
-                </div>
+                
+                    <?php echo $this->Form->input('place', array('label' => false, 'class' => 'form-control')); ?>
+                
             </div>
 
-            <div class="control-group">
-                <label class="control-label" for="inputPrix"><?php echo __('Livraison'); ?> ?</label>
-                <div class="controls">
-                    <?php echo $this->Form->input('delivery', array('label' => false)); ?>
-                </div>
+            
+
+            <div class="form-group">
+                <label for="inputPhone"><?php echo __('Téléphone'); ?></label>
+               
+                    <?php echo $this->Form->input('phone', array('label' => false, 'class' => 'form-control')); ?>
+                
             </div>
 
-            <div class="control-group">
-                <label class="control-label" for="inputPhone"><?php echo __('Téléphone'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('phone', array('label' => false, 'class' => 'span4')); ?>
-                </div>
+            <div class="form-group">
+                <label for="inputday"><?php echo __('Date du repas'); ?></label>
+                
+                    <?php echo $this->Form->input('food_days', array('type' => 'text', 'label' => false, 'class' => 'form-control', 'id' => 'datepicker')); ?>
+                
             </div>
 
-            <div class="control-group">
-                <label class="control-label" for="inputday"><?php echo __('Date du repas'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('food_days', array('type' => 'text', 'label' => false, 'class' => 'span4', 'id' => 'datepicker')); ?>
-                </div>
-            </div>
-
-            <h5 class="label label-info"> 2. <i class="icon-white icon-map-marker"></i> <?php echo __('Localisation'); ?></h5>
-            <div class="control-group">
-                <label class="control-label" for="inputRegion"><?php echo __('Choisissez votre région'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('regions_id', array('id' => 'an_region', 'label' => false, 'class' => 'span4')); ?>
-                </div>
+            <div class="form-group">
+            <label class="label label-danger"> 2. <i class="icon-white icon-map-marker"></i> <?php echo __('Localisation'); ?></label>
+           </div>
+            <div class="form-group">
+                <label for="inputRegion"><?php echo __('Choisissez votre région'); ?></label>
+               
+                    <?php echo $this->Form->input('regions_id', array('id' => 'an_region', 'label' => false, 'class' => 'form-control')); ?>
+               
             </div>
 
             <input type="hidden" value="" name="cities_id">
             
-            <div id="dep_display" class="control-group">
-                <label class="control-label" for="inputRegion"><?php echo __('Choisissez votre departement'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('departments_id', array('label' => false, 'type' => 'select', 'id' => 'an_department', 'class' => 'span4')); ?>
-                </div>
+            <div id="dep_display" class="form-group">
+                <label for="inputRegion"><?php echo __('Choisissez votre departement'); ?></label>
+                
+                    <?php echo $this->Form->input('departments_id', array('label' => false, 'type' => 'select', 'id' => 'an_department', 'class' => 'form-control')); ?>
+                
             </div>
             
-            <div class="ui-widget control-group" id="citie_display">
-                <label class="control-label" for="inputRegion"><?php echo __('Code postale'); ?></label>
-                <div class="controls">
-                    <?php echo $this->Form->input('cities', array('label' => false, 'id' => 'an_cities', 'class' => 'span4')); ?>
-                </div>
+            <div class="ui-widget form-group" id="citie_display">
+                <label for="inputRegion"><?php echo __('Code postale'); ?></label>
+                
+                    <?php echo $this->Form->input('cities', array('label' => false, 'id' => 'an_cities', 'class' => 'form-control')); ?>
+           
             </div>
 
-            <h5 class="label label-info">3. <?php echo __('Plus de détail') ?></h5>
+            <div class="form-group">
+            <label class="label label-danger">3. <?php echo __('Plus de détail') ?></label>
+            </div>
 
-            <div class="control-group">
+            <div class="form-group">
                 <label class="control-label" for="inputRegion"><?php echo __('Description'); ?></label>
-                <div class="controls">
+               
                     <?php
                     echo $this->Form->input('users_id', array('type' => 'hidden', 'default' => $this->Session->read('Auth.User.id')));
-                    echo $this->Form->input('description', array('type' => 'textarea', 'label' => false, 'class' => 'span4'));
+                    echo $this->Form->input('description', array('type' => 'textarea', 'label' => false, 'class' => 'form-control'));
                     ?>
-                </div>
+          
             </div>
 
-            <div class="control-group">
-                <div class="controls">
-                    <?php echo $this->Form->submit('Ajouter l\'annonce', array('class' => 'btn btn-info span3')); ?>
-                </div>
+            <div class="form-group">
+                
+                    <?php echo $this->Form->input('delivery', array('label' => false, 'div' => false)); ?>
+                    <label for="inputPrix"><?php echo __('Livraison'); ?> ?</label>
+            </div>
+
+            <div class="form-group">
+                
+                    <?php echo $this->Form->submit('Ajouter l\'annonce', array('class' => 'btn btn-danger col-lg-5')); ?>
+               
             </div>
         </fieldset>
         <?php echo $this->Form->end(); ?>
 
     </div>
-    <div class="span3">
+    
 
     </div>
 </div>
