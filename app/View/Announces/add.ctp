@@ -28,6 +28,12 @@ box-shadow: 0px 5px 4px #DDDDDD;
         background: #f2f2f2;
         padding: 5px;
     }
+    .head-titleo-video
+    {
+        width: 380px;
+        text-align: center;
+        height: 50px;
+    }
    /* .bs-docs-example{
        -moz-box-shadow: 10px 10px 5px #888;
 -webkit-box-shadow: 10px 10px 5px #888;
@@ -40,6 +46,9 @@ box-shadow: 10px 10px 5px #888;
   <div class="row">
    
     <div class="col-lg-4 form-left">
+        <div class="head-titleo-video">
+            <h3>La dernière vidéo</h3>
+        </div>
         <iframe src="http://player.vimeo.com/video/70762275" width="380" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
     </div>
     <div class="col-lg-8 an-form">

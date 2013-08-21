@@ -70,9 +70,14 @@
                          <li><a href=""><span class="glyphicon glyphicon-globe"></span></a></li>
                     </ul>
 
-                    <div class="navbar-form form-inline pull-right">
-                                <a href=""><span class="glyphicon glyphicon-cog"></span></a>
-                    </div>
+                    <ul class="nav navbar-nav pull-right">
+                                 <li><a href="" >Bonjour, <?php echo $this->Session->read("Auth.User.username"); ?></a></li>
+                                <li><a data-toggle="dropdown" href=""><span class="glyphicon glyphicon-cog"></span></a>
+                                   <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                                          <li>Looping</li>
+                                   </ul>
+                                </li>
+                    </ul>
                 </div><!--/.nav-collapse -->
             </div>
         </div>

@@ -30939,3 +30939,12 @@ Request URL: /ramifood/css/bootstrap-responsive.min.css
 Stack Trace:
 #0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-08-16 22:31:56 Error: [MissingControllerException] Controller class MyAnnouncesController could not be found.
+Exception Attributes: array (
+  'class' => 'MyAnnouncesController',
+  'plugin' => NULL,
+)
+Request URL: /ramifood/my_announces
+Stack Trace:
+#0 C:\wamp\www\ramifood\app\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
